@@ -14,7 +14,7 @@ ExpenseSplit is a Spring Boot application that helps users manage and split expe
 
 ## Technologies Used
 
-* Java 17
+* Java 8
 * Spring Boot
 * Spring Data JPA
 * Hibernate
